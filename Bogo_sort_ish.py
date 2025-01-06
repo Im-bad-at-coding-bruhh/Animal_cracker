@@ -10,5 +10,5 @@ def bogo_sort(lst):
         m += 1
     print(f'Done, no of iterations = {m}')
 
-g = [0,4,5,6,7,8,9,3,2,1]
+g = [5,2,7,4,4,3,2,1]
 bogo_sort(g)
